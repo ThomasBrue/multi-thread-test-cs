@@ -1,0 +1,15 @@
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\bin\Debug\net6.0\multiThreadTest.exe
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\bin\Debug\net6.0\multiThreadTest.deps.json
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\bin\Debug\net6.0\multiThreadTest.runtimeconfig.json
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\bin\Debug\net6.0\multiThreadTest.dll
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\bin\Debug\net6.0\ref\multiThreadTest.dll
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\bin\Debug\net6.0\multiThreadTest.pdb
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\obj\Debug\net6.0\multiThreadTest.csproj.AssemblyReference.cache
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\obj\Debug\net6.0\multiThreadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\obj\Debug\net6.0\multiThreadTest.AssemblyInfoInputs.cache
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\obj\Debug\net6.0\multiThreadTest.AssemblyInfo.cs
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\obj\Debug\net6.0\multiThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\obj\Debug\net6.0\multiThreadTest.dll
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\obj\Debug\net6.0\ref\multiThreadTest.dll
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\obj\Debug\net6.0\multiThreadTest.pdb
+C:\Users\tbrue\pg\C#\multiThreadTest\multiThreadTest\obj\Debug\net6.0\multiThreadTest.genruntimeconfig.cache
